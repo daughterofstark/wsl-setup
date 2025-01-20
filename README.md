@@ -2,7 +2,7 @@
 
 
 1. Open Powershell from the search bar. You must right click and say run as administrator. 
-2. Type wsl --install and then press enter.
+2. Type '''wsl --install''' and then press enter.
 3. You should see WSL and the Ubuntu being downloaded and installed.
 4. Restart computer.
 5. Open Powershell as administrator again and run wsl.exe --install Ubuntu
