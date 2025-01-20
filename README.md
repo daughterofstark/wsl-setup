@@ -30,6 +30,7 @@
 ERRORS YOU MAY ENCOUNTER:
 
 ............ in step 2. if it says "the connection with the server could not be established"
+
 SOLUTION ----> Check your internet connection. It works on campnet- sometimes fails with JIO. Don't worry, this is just during installation, it's a one time thing. This issue arises only during installation- it WILL work on any network after that. Reconnect to campnet/use hotspot. 
 Alternatively, install Ubuntu app from Windows Store. 
 
@@ -39,6 +40,7 @@ Alternatively, install Ubuntu app from Windows Store.
 "Installing, this may take a few minutes...
 WslRegisterDistribution failed with error: 0x8004032d
 Error: 0x8004032d (null)"  
+
 SOLUTION ----> search hypervisor in your search bar. 
 
 <img width="554" alt="Screenshot 2025-01-20 at 12 48 15 PM" src="https://github.com/user-attachments/assets/77d95e07-e533-4d1a-aa5b-30a57b5d7cb7" />
