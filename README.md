@@ -5,7 +5,7 @@
 2. Type ```wsl --install``` and then press enter.
 3. You should see WSL and the Ubuntu being downloaded and installed.
 4. Restart computer.
-5. Open Powershell as administrator again and run wsl.exe --install Ubuntu
+5. Open Powershell as administrator again and run ```wsl.exe --install Ubuntu```
 6. You will be asked to create a Username and Password. The Password will not be visible to you when you're typing so be careful.
 7. Install VSCode (skip if it is already downloaded on your system). Go to the website and run the Windows installer. When it finishes downloaded and you click on it, it will ask you for where to install etc. When the installer asks you to select additional tasks, select "ADD TO PATH."
 
@@ -16,14 +16,14 @@
  and search C/C++ on the same website. 
 9. Click install and it will ask you to open VSCode. Allow it to open VSCode and then click Install.
 10. Open WSL terminal by typing WSL in the search bar.
-11. You should see username@laptopname:~$
-12. Run this to update all packages: sudo apt update && sudo apt upgrade
-13. After that command finishes executing, type: sudo apt install gcc
-14. You're done with installation! Just run mkdir <name> to create a directory inside working directory.  Example: to make a directory called 'hello', run mkdir hello
-15. To enter into that directory, run cd <name>
-16. Open the folder in VS Code with code . (include the full stop)
+11. You should see ```username@laptopname:~$```
+12. Run this to update all packages: ```sudo apt update && sudo apt upgrade```
+13. After that command finishes executing, type: ```sudo apt install gcc```
+14. You're done with installation! Just run ```mkdir <name>``` to create a directory inside working directory.  Example: to make a directory called 'hello', run ```mkdir hello```
+15. To enter into that directory, run ```cd <name>```
+16. Open the folder in VS Code with ```code .``` (include the full stop)
 17. VSCode would show a bunch of fetching commands- it is getting integrated with whatever you have just created.
-18. In the Explorer tab, right click and select "New File" and make a new C file (example: "hii.c")
+18. In the Explorer tab, right click and select "New File" and make a new C file (example: ```hii.c```)
 
 
 
