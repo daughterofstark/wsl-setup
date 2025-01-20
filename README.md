@@ -27,6 +27,7 @@
 
 
 ERRORS YOU MAY ENCOUNTER:
+
 ............ in step 2. if it says "the connection with the server could not be established"
 SOLUTION ----> Check your internet connection. It works on campnet- sometimes fails with JIO. Don't worry, this is just during installation, it's a one time thing. This issue arises only during installation- it WILL work on any network after that. Reconnect to campnet/use hotspot. 
 Alternatively, install Ubuntu app from Windows Store. 
