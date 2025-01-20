@@ -12,7 +12,8 @@
 <img width="397" alt="Screenshot 2025-01-20 at 12 37 50 PM" src="https://github.com/user-attachments/assets/411a2795-105d-47b4-bc9e-ce29b834035e" />
 
 
-8. Install the WSL and C/C++ extensions from the website. (https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl)-> search C/C++ on the same website. 
+8. Install the WSL and C/C++ extensions from the website. (https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl) 
+ and search C/C++ on the same website. 
 9. Click install and it will ask you to open VSCode. Allow it to open VSCode and then click Install.
 10. Open WSL terminal by typing WSL in the search bar.
 11. You should see username@laptopname:~$
